@@ -1,6 +1,6 @@
 # thehtmlforbignoobs.wikidot.com
 
-$thehtmlforbignoobs.wikidot.com$
+#thehtmlforbignoobs.wikidot.com#
 
 $$official github repository for the Wiki page thehtmlforbignoobs.wikidot.com$$
 
