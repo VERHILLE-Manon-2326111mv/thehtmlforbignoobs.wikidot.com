@@ -1,6 +1,6 @@
 # thehtmlforbignoobs.wikidot.com
 
-## Official GitHub repository for the Wiki page thehtmlforbignoobs.wikidot.com
+## Page GitHub officiel de [HTML](http://thehtmlforbignoobs.wikidot.com)
 
 __HTML__ est un un wiki effectué sur l'hébergeur Wikidot. Il présente le HTML, un langage de programmation pour écrire de l'hypertexte, plus simplement pour structurer des pages Web.
 Il se présente de la sorte :
