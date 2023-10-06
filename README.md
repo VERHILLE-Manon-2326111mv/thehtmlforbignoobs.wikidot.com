@@ -3,13 +3,13 @@
 ## Page GitHub officiel de [HTML](http://thehtmlforbignoobs.wikidot.com)
 ![image](https://github.com/VERHILLE-Manon-2326111mv/thehtmlforbignoobs.wikidot.com/assets/145963847/beaa02fe-56ac-4f40-a2ae-2839faf8fbc7)
 
-```[tasklist]
+[tasklist]
 Vous êtes...
 - [] Passionné.e d'informatique
 - [] Intérréssé.e par la programmation
 - [] Intérressé.e par l'apprentissage d'un nouveau langage
 - [] Débutant dans la réalisation de sites Web ?
-```
+
 
 Si toutes les cases sont cochées, ne cherchez plus !
 
