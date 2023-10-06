@@ -30,7 +30,7 @@ __ATTENTION ! LE SITE NE PARLE AUCUNEMENT DU CSS ET DU JAVA SCRIPT !__ Ils ne so
 Si vous souhaitez consultés des informations à ce sujet, veuillez vous tourner vers les liens suivants :
 - [Le Wikipédia sur le CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
 - [Le Wikipédia sur le Java Script](https://fr.wikipedia.org/wiki/JavaScript) 
-- [Un lien perdu dans cette liste](https://youtu.be/dQw4w9WgXcQ?feature=shared)
+- [~~Un lien perdu dans cette liste~~](https://youtu.be/dQw4w9WgXcQ?feature=shared)
 
 En espérant que vous pourrez découvrir ce langage de programmation grâce à notre merveilleux site !
 
