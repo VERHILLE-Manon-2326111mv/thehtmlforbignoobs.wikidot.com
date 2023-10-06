@@ -4,10 +4,10 @@
 ![image](https://github.com/VERHILLE-Manon-2326111mv/thehtmlforbignoobs.wikidot.com/assets/145963847/beaa02fe-56ac-4f40-a2ae-2839faf8fbc7)
 
 Vous êtes...
-  - [x] Passionné.e d'informatique
-- [] Intérréssé.e par la programmation
-- [] Intérressé.e par l'apprentissage d'un nouveau langage
-- [] Débutant.e dans la réalisation de sites Web ?
+  - [ ] Passionné.e d'informatique
+- [ ] Intérréssé.e par la programmation
+- [ ] Intérressé.e par l'apprentissage d'un nouveau langage
+- [ ] Débutant.e dans la réalisation de sites Web ?
 
 
 Si toutes les cases sont cochées, ne cherchez plus !
