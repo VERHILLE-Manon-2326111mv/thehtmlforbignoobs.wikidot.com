@@ -5,10 +5,10 @@
 
 [tasklist]
 Vous êtes...
-[] Passionné.e d'informatique
-[] Intérréssé.e par la programmation
-[] Intérressé.e par l'apprentissage d'un nouveau langage
-[] Débutant dans la réalisation de sites Web ?
+- [] Passionné.e d'informatique
+- [] Intérréssé.e par la programmation
+- [] Intérressé.e par l'apprentissage d'un nouveau langage
+- [] Débutant dans la réalisation de sites Web ?
 
 
 Si toutes les cases sont cochées, ne cherchez plus !
