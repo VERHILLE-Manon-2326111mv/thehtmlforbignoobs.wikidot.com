@@ -12,7 +12,7 @@ Vous êtes...
 
 Si toutes les cases sont cochées, ne cherchez plus !
 
-<font size="6">NOUS AVONS LE SITE POUR VOUS !</font>
+__<font size="20">NOUS AVONS LE SITE POUR VOUS !</font>__
 
 __HTML__ est un un wiki effectué sur l'hébergeur Wikidot. 
 Il présente le HTML, un langage de programmation pour écrire de l'hypertexte, plus simplement pour structurer des pages Web.
