@@ -29,9 +29,9 @@ Il se présente de la sorte :
 __ATTENTION ! LE SITE NE PARLE AUCUNEMENT DU CSS ET DU JAVA SCRIPT !__ Ils ne sont énoncés que comme étant des langages utilisés avec le HTML.
 Si vous souhaitez consultés des informations à ce sujet, veuillez vous tourner vers les liens suivants :
 - [Le Wikipédia sur le CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
-- [Le Wikipédia sur le Java Script](https://fr.wikipedia.org/wiki/JavaScript) ![image](https://github.com/VERHILLE-Manon-2326111mv/thehtmlforbignoobs.wikidot.com/assets/145963847/2b3ae15a-cff2-4760-ad49-8042be069d9a)
+- [Le Wikipédia sur le Java Script](https://fr.wikipedia.org/wiki/JavaScript) 
 - [Un lien perdu dans cette liste](https://youtu.be/dQw4w9WgXcQ?feature=shared)
 
 En espérant que vous pourrez découvrir ce langage de programmation grâce à notre merveilleux site !
 
-
+![image](https://github.com/VERHILLE-Manon-2326111mv/thehtmlforbignoobs.wikidot.com/assets/145963847/2b3ae15a-cff2-4760-ad49-8042be069d9a)
